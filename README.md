@@ -23,6 +23,10 @@
 
 此项目在 https://github.com/sunshine940326/canvas-nest/blob/master/src/index.js 基础上进行了许多改进，使得使用更加方便，且适用于更多场景。
 
+[示例网页](sample.html)
+
+实时观看效果：https://hollowman6.github.io/ 
+
 ## 使用
 
 将下面的代码插入到 `<body> 和 </body> 之间`.
@@ -53,6 +57,10 @@
 A nest background drawn on canvas.
 
 This project is derived from https://github.com/sunshine940326/canvas-nest/blob/master/src/index.js . Many improvements have been made to make it more convenient to use and suitable for more scenes.
+
+[Sample Page](sample.html)
+
+Watch the effect real-time: https://hollowman6.github.io/ 
 
 ## Usage
 
