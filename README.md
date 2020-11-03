@@ -1,6 +1,7 @@
 # canvas-nest.js
 
 [![last-commit](https://img.shields.io/github/last-commit/HollowMan6/canvas-nest.js)](../../graphs/commit-activity)
+![Node.js Package](https://github.com/HollowMan6/canvas-nest.js/workflows/Node.js%20Package/badge.svg)
 
 [![Followers](https://img.shields.io/github/followers/HollowMan6?style=social)](https://github.com/HollowMan6?tab=followers)
 [![watchers](https://img.shields.io/github/watchers/HollowMan6/canvas-nest.js?style=social)](../../watchers)
@@ -16,7 +17,7 @@
 
 (English version is down below.)
 
-![sample](sample.png)
+![sample](/sample.png)
 
 粒子运动背景插件，仿老版知乎登录页面。
 
