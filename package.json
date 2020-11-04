@@ -1,6 +1,6 @@
 {
   "name": "@hollowman6/canvas-nest",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A nest background drawn on canvas. (粒子运动背景插件，仿老版知乎登录页面)",
   "main": "canvas-nest.js",
   "scripts": {
