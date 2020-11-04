@@ -98,7 +98,7 @@ class currentCirle extends Circle {
                 current_circle.drawLine(ctx, circles[k])
             }
         }
-        requestAnimationFrame(draw)
+        requestAnimationFrame(draw);
     }
 
     //创建画布，并添加到body中
