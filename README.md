@@ -19,6 +19,8 @@
 
 ![sample](/sample.png)
 
+**新**: *V1.0.6*: 修复了小球初始移动方向只为右下角，导致短时间内左上角出现空白，右下角过密的情况。
+
 粒子运动背景插件，仿老版知乎登录页面。
 
 此项目在 https://github.com/sunshine940326/canvas-nest/blob/master/src/index.js 基础上进行了许多改进，使得使用更加方便，且适用于更多场景。
@@ -51,6 +53,8 @@
 然后就完成了，打开网页即可看到效果!`请注意不要将代码置于 <head> </head>里面`.
 
 # canvas-nest.js
+
+**NEW**: *V1.0.6*: Fix the BUG relating to balls' initial moving direction only to down-right, leading to temporarily blank in top-left corner and too dense in down-right corner.
 
 A nest background drawn on canvas.
 
