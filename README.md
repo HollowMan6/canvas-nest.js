@@ -25,9 +25,9 @@
 
 粒子运动背景插件，仿老版知乎登录页面。
 
-此项目在 https://github.com/sunshine940326/🕸️%20canvas-nest/blob/master/src/index.js 基础上进行了许多改进，使得使用更加方便，且适用于更多场景。
+此项目在 https://github.com/sunshine940326/canvas-nest/blob/master/src/index.js 基础上进行了许多改进，使得使用更加方便，且适用于更多场景。
 
-[示例网页](sample.html) 预览效果：http://practice.hollowman.ml/canvas-nest.js/sample.html
+[示例网页](sample.html) 预览效果：http://practice.hollowman.ml/🕸️%20canvas-nest.js/sample.html
 
 ## 使用
 
